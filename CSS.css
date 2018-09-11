@@ -12,10 +12,11 @@ body
 }
 
 h1 {
+	color:white;
 	font-family: arial;
 	font-size: 26px;
-	border-bottom: 2px solid gray;
-	border-right: 2px solid gray;
+	border-bottom: 2px solid grey;
+	border-right: 2px solid grey;
 	width: 600px;
 	text-align: center;
 	box-shadow: 4px 4px 5px #888888;
